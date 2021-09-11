@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  overflow: hidden;
+  display: block;
+  position: relative;
+  padding-bottom: 5px;
+}
+
+.music-button {
+  background-color: transparent;
+  position: absolute;
+  right: 30px;
+  top: 30px;
+  /* width: 35px;
+  height: 35px; */
+  border: 0px;
+}
